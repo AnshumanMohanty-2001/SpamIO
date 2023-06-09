@@ -18,7 +18,7 @@ For text-based spam detection, SVC achieves an accuracy of 99.15% whereas, a DNN
 Email: anshumohanty2002@gmail.com
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/SpamIO.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/Dave_Drives.svg?style=for-the-badge
 [contributors-url]: https://github.com/AnshumanMohanty-2001/SpamIO/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AnshumanMohanty-2001/SpamIO.svg?style=for-the-badge
 [forks-url]: https://github.com/AnshumanMohanty-2001/SpamIO/network/members
